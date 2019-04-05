@@ -1,0 +1,13 @@
+fun main(){
+	
+	//Trabalhando com loops for
+	
+    for (xuxu in 1..20){
+        
+        if(xuxu % 2 == 0){
+            
+      		println(xuxu)       
+        }
+             
+    }
+}
