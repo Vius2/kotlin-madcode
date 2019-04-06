@@ -1,0 +1,4 @@
+#Fri Mar 15 21:05:22 BRT 2019
+base.0=C\:\\Users\\Renomear.DESKTOP-BS0U13S\\Desktop\\ObjectEditText\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex
