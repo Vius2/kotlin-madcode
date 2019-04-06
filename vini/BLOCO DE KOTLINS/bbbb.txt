@@ -1,0 +1,15 @@
+fun main(){
+    
+    //Trabalhando com loops for
+    
+    for(umNumero in 1..20){
+        
+        if(umNumero % 2 == 0){
+        
+        println(umNumero)
+        }
+        
+    }
+    
+    
+}

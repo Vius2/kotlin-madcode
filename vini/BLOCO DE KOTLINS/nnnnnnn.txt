@@ -1,0 +1,23 @@
+fun main(){
+    
+    
+    //Criando listas
+    val listaFrutas = arrayListOf("Maçã", "Banana", "Melão")
+    
+    //Lista vazia
+    val listaVazia = arrayListOf<Int>()
+    
+    //Exibindo as listas
+    println(listaFrutas)
+    println(listaVazia)
+    
+    //Exibindo um item da lista
+    println(listaFrutas[1])
+    
+    //Extraindo elementos de uma lista
+    for(umaFruta in listaFrutas){
+        
+        println(umaFruta)
+        
+        
+    }

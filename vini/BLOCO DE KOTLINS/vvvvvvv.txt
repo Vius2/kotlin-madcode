@@ -1,0 +1,18 @@
+fun main(){
+    
+    var idade = 18
+    
+    //Verificando a idade
+    if (idade >= 18){
+        
+        println("Pode dirigir!")
+        
+    } else {
+        
+        println("Ainda não pode dirigir...")
+        
+    }
+    
+    
+    
+}
