@@ -29,7 +29,27 @@ class Tela2 : AppCompatActivity() {
         spnIdade.adapter = arrayAdaptado
 
 
+        //Verificando a idade e exibindo o resultado
+        btnCalcular.setOnClickListener {
 
+            //Capturando a idade selecionada
+            val idadeSelecionada = spnIdade.selectedItem.toString().toInt()
+
+            //Comparando a idade capturada
+
+            if(idadeSelecionada >=18 && idadeSelecionada <=90){
+
+                txvResultado.text = "Pode dirigir"
+
+            }else{
+
+                txvResultado.text = "Não pode dirigir..."
+
+
+            }
+
+
+        }
 
 
         btnVoltar.setOnClickListener{
