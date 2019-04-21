@@ -1,0 +1,4 @@
+#Sun Apr 21 15:10:05 BRT 2019
+base.0=C\:\\Kotlin\\Comunismo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex
